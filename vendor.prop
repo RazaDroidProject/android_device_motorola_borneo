@@ -16,5 +16,8 @@ ro.surface_flinger.set_touch_timer_ms=0
 # Keymaster
 ro.hardware.keystore_desede=true
 
+# Multi-gen LRU
+persist.device_config.mglru_native.lru_gen_config=all
+
 # Radio
 ro.vendor.radio.imei.sv=33
