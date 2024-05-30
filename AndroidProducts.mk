@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cebu.mk
+    $(LOCAL_DIR)/infinity_cebu.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_cebu-user \
-    lineage_cebu-userdebug \
-    lineage_cebu-eng
+    infinity_cebu-user \
+    infinity_cebu-userdebug \
+    infinity_cebu-eng
